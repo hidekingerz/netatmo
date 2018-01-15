@@ -1,5 +1,5 @@
-# netatomo
-netatomo weather stationのメインモジュール側の検知温度を取得し、Macのsayコマンドで温度を発話するコード。
+# netatmo
+netatmo weather stationのメインモジュール側の検知温度を取得し、Macのsayコマンドで温度を発話するコード。
 
 ## 仕様
 - python3.6
